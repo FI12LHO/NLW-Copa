@@ -45,3 +45,12 @@ Projeto construído utilizando NodeJs(Backend/Server), React(Web), React Native(
 - [Prisma](https://www.prisma.io/)
 - [TailWindCss](https://tailwindcss.com/)
 - [React Native Base](https://nativebase.io/)
+
+## Preview
+- ### Mobile
+https://user-images.githubusercontent.com/40048345/200393788-e55b5673-44ed-4f1b-8c13-d0ff049d109e.mp4
+
+- ### Web
+![localhost-3000](https://user-images.githubusercontent.com/40048345/200394002-8e342f06-6a5e-4a0a-8517-2517a0e0d884.png)
+
+
